@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/search_user_profile"
+        android:title="search" />
+
+    <item android:id="@+id/offers_user_profile"
+        android:title="offers" />
+
+
+    <item android:id="@+id/options_user_profile_logout"
+        android:title="Logout" />
+
+
+</menu>
